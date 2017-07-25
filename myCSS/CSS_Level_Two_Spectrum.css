@@ -1,0 +1,36 @@
+body{
+    font-family: 'Indie Flower', cursive;
+}
+
+/* center title of page */
+h1{
+    text-align: center;
+}
+
+/* override text decoration for hyperlink */
+a{
+    text-decoration: none;
+}
+
+/* let the user know it's a hyperlink by changing color on hover */
+a:hover{
+    color: darkgreen;
+}
+
+/* the table is defined as a class called art */
+.art{
+   /* border:10px solid black;*/
+    width: 80%;
+    height:200px;
+    margin: auto;
+}
+
+td{
+   border: 8px solid white;
+}
+
+#one{background-color: #EDA16A;}
+#two{background-color: #F5F2E6;}
+#three{background-color: #FFF26E;}
+#four{background-color: #2F278C;}
+#five{background-color: #78E4E8;}

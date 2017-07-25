@@ -1,0 +1,20 @@
+body{
+    background: url(https://s7d2.scene7.com/is/image/dkscdn/16SGAUCRB7XXXXXXXSTG_is/);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+p{
+    color:yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}

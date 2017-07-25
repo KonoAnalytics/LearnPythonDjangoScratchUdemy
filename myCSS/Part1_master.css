@@ -1,0 +1,25 @@
+/* standard format
+
+selected tag{
+    property: value;
+}
+
+*/
+
+h1{
+    color: blue;
+}
+
+li{
+    color: rgb(90,255,90);
+}
+
+p{
+    color: #08956A;
+}
+
+h4{
+    color: rgba(90,255,90,0.25) /*a is transparency */
+
+
+}

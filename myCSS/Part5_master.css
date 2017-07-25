@@ -1,0 +1,16 @@
+li{
+    color:red;
+}
+
+/* Specificity */
+/* Class calls are higher order than general tag calls*/
+.TopItems{
+    color:blue
+}
+
+/* ids are higher than Class */
+#two{
+    border: 3px solid black;
+}
+
+/* id > class > general tag call */
